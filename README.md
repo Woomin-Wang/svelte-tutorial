@@ -1,2 +1,6 @@
-# svelte-tutorial
-WiSoft Lab - Svelte를 활용하여 관리자 페이지 생성 학습 
+## 학습 내용
+- WiSoft 연구실에서 진행한 Svelte 세미나의 실습 및 과제 코드를 기록합니다.
+
+<br>
+
+
