@@ -7,7 +7,6 @@ type Props = {
 let { title, minLength }: Props = $props();
 </script>
 
-
 <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-5 flex items-center gap-4">
   <div>
     <h4 class="text-sm text-gray-500 dark-text-gray-400">
@@ -18,3 +17,5 @@ let { title, minLength }: Props = $props();
     </p>
   </div>
 </div>
+
+
